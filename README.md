@@ -7,10 +7,12 @@ By assessing graduate salary data as well as city based livable wage data in con
 Links to Datasets, since some were too large to upload:
 
 cp_major_sal: https://www.gradreports.com/rankings/california-polytechnic-state-university-san-luis-obispo
+
 livingwage:  https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
               https://livingwage.mit.edu/
               
 degrees-that-pay-back: https://www.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html
+
 united_states_2022: https://www.kaggle.com/datasets/dataranch/100000-zillow-properties-us-canada
                     https://www.bankrate.com/mortgages/average-monthly-mortgage-payment/#region
 
